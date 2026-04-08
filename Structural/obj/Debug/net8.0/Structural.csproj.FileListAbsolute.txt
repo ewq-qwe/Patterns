@@ -1,0 +1,15 @@
+D:\stud\PATERN\laba1\Solution1\Structural\bin\Debug\net8.0\Structural.exe
+D:\stud\PATERN\laba1\Solution1\Structural\bin\Debug\net8.0\Structural.deps.json
+D:\stud\PATERN\laba1\Solution1\Structural\bin\Debug\net8.0\Structural.runtimeconfig.json
+D:\stud\PATERN\laba1\Solution1\Structural\bin\Debug\net8.0\Structural.dll
+D:\stud\PATERN\laba1\Solution1\Structural\bin\Debug\net8.0\Structural.pdb
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.GeneratedMSBuildEditorConfig.editorconfig
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.AssemblyInfoInputs.cache
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.AssemblyInfo.cs
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.csproj.CoreCompileInputs.cache
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.sourcelink.json
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.dll
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\refint\Structural.dll
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.pdb
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\Structural.genruntimeconfig.cache
+D:\stud\PATERN\laba1\Solution1\Structural\obj\Debug\net8.0\ref\Structural.dll
