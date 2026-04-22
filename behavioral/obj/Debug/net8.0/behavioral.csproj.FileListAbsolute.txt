@@ -1,0 +1,15 @@
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.GeneratedMSBuildEditorConfig.editorconfig
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.AssemblyInfoInputs.cache
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.AssemblyInfo.cs
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.csproj.CoreCompileInputs.cache
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.sourcelink.json
+D:\stud\PATERN\laba1\Solution1\behavioral\bin\Debug\net8.0\behavioral.exe
+D:\stud\PATERN\laba1\Solution1\behavioral\bin\Debug\net8.0\behavioral.deps.json
+D:\stud\PATERN\laba1\Solution1\behavioral\bin\Debug\net8.0\behavioral.runtimeconfig.json
+D:\stud\PATERN\laba1\Solution1\behavioral\bin\Debug\net8.0\behavioral.dll
+D:\stud\PATERN\laba1\Solution1\behavioral\bin\Debug\net8.0\behavioral.pdb
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.dll
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\refint\behavioral.dll
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.pdb
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\behavioral.genruntimeconfig.cache
+D:\stud\PATERN\laba1\Solution1\behavioral\obj\Debug\net8.0\ref\behavioral.dll
