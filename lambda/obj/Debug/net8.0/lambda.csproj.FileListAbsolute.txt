@@ -1,0 +1,15 @@
+D:\stud\PATERN\laba1\Solution1\lambda\bin\Debug\net8.0\lambda.exe
+D:\stud\PATERN\laba1\Solution1\lambda\bin\Debug\net8.0\lambda.deps.json
+D:\stud\PATERN\laba1\Solution1\lambda\bin\Debug\net8.0\lambda.runtimeconfig.json
+D:\stud\PATERN\laba1\Solution1\lambda\bin\Debug\net8.0\lambda.dll
+D:\stud\PATERN\laba1\Solution1\lambda\bin\Debug\net8.0\lambda.pdb
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.AssemblyInfoInputs.cache
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.AssemblyInfo.cs
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.csproj.CoreCompileInputs.cache
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.sourcelink.json
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.dll
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\refint\lambda.dll
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.pdb
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\lambda.genruntimeconfig.cache
+D:\stud\PATERN\laba1\Solution1\lambda\obj\Debug\net8.0\ref\lambda.dll
